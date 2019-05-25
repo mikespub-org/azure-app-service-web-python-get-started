@@ -1,0 +1,3 @@
+[remote "Azure-Samples"]
+	url = https://github.com/Azure-Samples/app-service-web-python-get-started.git
+	fetch = +refs/heads/*:refs/remotes/Azure-Samples/*
